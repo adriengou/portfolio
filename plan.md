@@ -1,12 +1,8 @@
 ## Ce fichier est le plan de mon portfolio.
 
----
-
 ## Adrien Gouacide
 
 - Description courte
-
----
 
 ## A propos
 
@@ -18,8 +14,6 @@
   - le nom, courte description, lien vers le site
   - description des compétences, lien vers le programme
 
----
-
 ## Mes projets
 
 ### Contenu pour chaque projet
@@ -29,8 +23,6 @@
 - lien du depot sur github.
 - liste des technologies / langages / framework utilisés.
 - stats du depot github: langages, étoiles, forks, etc...
-
----
 
 ## Contact
 
