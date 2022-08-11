@@ -6,7 +6,8 @@
 
 ## A propos
 
-- présentation
+### présentation
+
 - mes compétences techniques
 - expériences professionelle
 - ce que je recherche (emploi, stage...)
