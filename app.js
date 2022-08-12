@@ -13,7 +13,7 @@ import logger from "morgan";
 import indexRouter from "./routes/index.js";
 
 let app = express();
-const port = 80;
+const port = process.env.PORT || 80;
 
 // set the view engine to ejs
 app.set("view engine", "ejs");
